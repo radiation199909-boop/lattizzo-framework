@@ -53,7 +53,7 @@
 <https://example.org/lattizzo/sample/s07> a skos:Concept ;
     skos:altLabel "Domaschino"@it,
         "damaschini"@it ;
-    skos:historyNote "first seen 1440 (L-ve2-02); Florence: first in a law none, first in another record 1447, class not named"@en ;
+    skos:historyNote "first seen 1440 (L-ve2-02); Florence: first in a law 1464, first in another record 1447, class outside-first (first response)"@en ;
     skos:inScheme <https://example.org/lattizzo/scheme/it> ;
     skos:prefLabel "domaschino"@it ;
     skos:scopeNote "category material_technique; seen in 5 records, 3 of them laws"@en .
