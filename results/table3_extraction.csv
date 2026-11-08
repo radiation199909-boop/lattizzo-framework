@@ -1,0 +1,3 @@
+language,precision,recall,f1,hits,missed,extra,split_gold_side,split_model_side,category_differs
+Italian vernacular,0.885,0.802,0.841,276,49,16,19,20,21
+Classical Chinese,0.754,0.754,0.754,985,63,95,259,226,123

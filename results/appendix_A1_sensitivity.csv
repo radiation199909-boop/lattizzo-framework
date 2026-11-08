@@ -1,0 +1,22 @@
+analysis,H1_w25,H1_windows_holding_of_3,H2a_per_clause,H2a_per_law,H2b,H2,H3a,H3b,H3,florence_outside_first_vs_law_first_w25,M3_ming_vs_florence_w25_or_H3_shares
+main analysis,False,1,True,True,True,True,True,True,True,13/13,30/33 = 0.909 | 38/67 = 0.567
+without Venice,False,1,True,True,True,True,True,True,True,13/13,30/33 = 0.909 | 38/67 = 0.567
+without laws known only from summaries,False,1,True,True,True,True,True,True,True,13/13,30/33 = 0.909 | 38/67 = 0.567
+without Ming passages quoted by modern scholars,False,1,True,True,True,True,True,True,True,13/13,9/10 = 0.900 | 38/67 = 0.567
+without Italian literary records,False,1,True,True,True,True,True,True,True,12/13,30/33 = 0.909 | 34/62 = 0.548
+with textile production records added,True,3,True,True,True,True,True,True,True,15/13,30/33 = 0.909 | 43/74 = 0.581
+with retrospective Ming records added,False,1,True,True,True,True,True,True,True,13/13,30/33 = 0.909 | 38/67 = 0.567
+no date limits,False,1,True,True,True,True,True,True,True,13/13,30/33 = 0.909 | 38/67 = 0.567
+without laws added from secondary lists,False,1,True,True,True,True,True,True,True,13/13,8/8 = 1.000 | 38/67 = 0.567
+without the 1888 tomb description,False,1,True,True,True,True,True,True,True,13/13,30/33 = 0.909 | 37/63 = 0.587
+with titles and preambles,False,1,True,True,True,True,True,True,True,13/13,30/33 = 0.909 | 38/67 = 0.567
+mixed clauses counted as rank,,,,,,,True,True,True,,
+mixed clauses counted as item,,,,,,,True,True,True,,
+H3 with the author's first coding,,,,,,,True,True,True,,Florence before 1500 5/49 = 0.102 Florence from 1500 4/6 = 0.667 Ming 1368-1424 40/50 = 0.800
+"H3 with model coding, claude-sonnet-5-5 run 1",,,,,,,True,True,True,,Florence before 1500 2/49 = 0.041 Florence from 1500 5/6 = 0.833 Ming 1368-1424 48/50 = 0.960
+"H3 with model coding, deepseek-v4-pro run 1",,,,,,,True,True,True,,Florence before 1500 5/49 = 0.102 Florence from 1500 5/6 = 0.833 Ming 1368-1424 49/50 = 0.980
+"H3 with model coding, gpt-6-sol run 1",,,,,,,True,True,True,,Florence before 1500 9/49 = 0.184 Florence from 1500 5/6 = 0.833 Ming 1368-1424 45/50 = 0.900
+"H3 with model coding, gpt-6-sol run 2",,,,,,,True,True,True,,Florence before 1500 8/49 = 0.163 Florence from 1500 5/6 = 0.833 Ming 1368-1424 45/50 = 0.900
+"raw model extraction, gpt-6-sol",False,1,True,True,True,True,True,True,True,12/12,30/32 = 0.938 | 43/70 = 0.614
+"raw model extraction, claude-sonnet-5-5",True,3,True,True,True,True,True,True,True,14/12,25/28 = 0.893 | 41/70 = 0.586
+"raw model extraction, deepseek-v4-pro",True,3,True,True,True,True,True,True,True,13/12,40/44 = 0.909 | 45/73 = 0.616

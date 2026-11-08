@@ -1,0 +1,11 @@
+Second human coder, clause coding (sample of 30 clauses, 15 Florence and 15 Ming central, seed 20261106, registered before coding)
+second coder vs final coding      n=30  agreement 0.933  kappa 0.870
+  Florence                        n=15  agreement 0.933  kappa 0.815
+  Ming central                    n=15  agreement 0.933  kappa 0.857
+second coder vs author first pass n=30  agreement 0.867  kappa 0.740
+  Florence                        n=15  agreement 0.933  kappa 0.815
+  Ming central                    n=15  agreement 0.800  kappa 0.615
+H3 with the second coder's codes for the late clauses
+  Florence from 1500       rank 5/6 (final coding 4/6)
+  Ming central from 1425   rank 4/11, mixed 1 (final coding 4/11)
+H3 judgement unchanged.

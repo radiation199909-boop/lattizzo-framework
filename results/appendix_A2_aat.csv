@@ -1,0 +1,13 @@
+side,category,concepts_with_aat_match,concepts_checked
+it,garment,14,23
+it,headwear_jewelry,11,18
+it,material_technique,30,61
+it,color,4,5
+zh,garment,13,32
+zh,headwear_jewelry,11,34
+zh,material_technique,21,43
+zh,color,7,20
+zh,pattern,1,13
+zh,other,0,1
+it,all,59,107
+zh,all,53,143
