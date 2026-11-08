@@ -1,15 +1,15 @@
 analysis,H1_w25,H1_windows_holding_of_3,H2a_per_clause,H2a_per_law,H2b,H2,H3a,H3b,H3,florence_outside_first_vs_law_first_w25,M3_ming_vs_florence_w25_or_H3_shares
-main analysis,False,1,True,True,True,True,True,True,True,13/13,30/33 = 0.909 | 38/67 = 0.567
-without Venice,False,1,True,True,True,True,True,True,True,13/13,30/33 = 0.909 | 38/67 = 0.567
-without laws known only from summaries,False,1,True,True,True,True,True,True,True,13/13,30/33 = 0.909 | 38/67 = 0.567
-without Ming passages quoted by modern scholars,False,1,True,True,True,True,True,True,True,13/13,9/10 = 0.900 | 38/67 = 0.567
-without Italian literary records,False,1,True,True,True,True,True,True,True,12/13,30/33 = 0.909 | 34/62 = 0.548
-with textile production records added,True,3,True,True,True,True,True,True,True,15/13,30/33 = 0.909 | 43/74 = 0.581
-with retrospective Ming records added,False,1,True,True,True,True,True,True,True,13/13,30/33 = 0.909 | 38/67 = 0.567
-no date limits,False,1,True,True,True,True,True,True,True,13/13,30/33 = 0.909 | 38/67 = 0.567
-without laws added from secondary lists,False,1,True,True,True,True,True,True,True,13/13,8/8 = 1.000 | 38/67 = 0.567
-without the 1888 tomb description,False,1,True,True,True,True,True,True,True,13/13,30/33 = 0.909 | 37/63 = 0.587
-with titles and preambles,False,1,True,True,True,True,True,True,True,13/13,30/33 = 0.909 | 38/67 = 0.567
+main analysis,False,1,True,True,True,True,True,True,True,14/14,30/33 = 0.909 | 37/67 = 0.552
+without Venice,False,1,True,True,True,True,True,True,True,14/14,30/33 = 0.909 | 37/67 = 0.552
+without laws known only from summaries,False,1,True,True,True,True,True,True,True,14/14,30/33 = 0.909 | 37/67 = 0.552
+without Ming passages quoted by modern scholars,False,1,True,True,True,True,True,True,True,14/14,9/10 = 0.900 | 37/67 = 0.552
+without Italian literary records,False,1,True,True,True,True,True,True,True,13/14,30/33 = 0.909 | 33/62 = 0.532
+with textile production records added,True,3,True,True,True,True,True,True,True,16/14,30/33 = 0.909 | 42/74 = 0.568
+with retrospective Ming records added,False,1,True,True,True,True,True,True,True,14/14,30/33 = 0.909 | 37/67 = 0.552
+no date limits,False,1,True,True,True,True,True,True,True,14/14,30/33 = 0.909 | 37/67 = 0.552
+without laws added from secondary lists,False,1,True,True,True,True,True,True,True,14/14,8/8 = 1.000 | 37/67 = 0.552
+without the 1888 tomb description,False,1,True,True,True,True,True,True,True,14/14,30/33 = 0.909 | 36/64 = 0.562
+with titles and preambles,False,1,True,True,True,True,True,True,True,14/14,30/33 = 0.909 | 37/67 = 0.552
 mixed clauses counted as rank,,,,,,,True,True,True,,
 mixed clauses counted as item,,,,,,,True,True,True,,
 H3 with the author's first coding,,,,,,,True,True,True,,Florence before 1500 5/49 = 0.102 Florence from 1500 4/6 = 0.667 Ming 1368-1424 40/50 = 0.800
