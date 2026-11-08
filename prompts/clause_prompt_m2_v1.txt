@@ -1,0 +1,53 @@
+You will read one clause from a sumptuary law about dress. It may be in
+Latin, old Italian or classical Chinese, or a modern summary of such a
+clause.
+
+Give the clause one code.
+
+item   The clause centres on a thing. It sets the use, number, size or
+       value of a garment, ornament, material, technique, color or
+       pattern. It applies to everyone, or to everyone except a few
+       exempt groups.
+rank   The clause centres on a rank or status group. It lists what that
+       group may or may not use, so as to set it apart from other groups.
+       Signs are a named group together with words such as may use,
+       only, must not presume to use, or so as to be distinguished from.
+       A clause that gives different standards to different groups is
+       also rank.
+mixed  Both centres are present and neither is clearly primary. Use it
+       rarely.
+
+Decide in this order.
+1. Is the clause addressed to a specific rank or status group? If not,
+   code item.
+2. If it is, does it give that group things that differ from what other
+   groups receive? If so, code rank.
+3. If it only forbids something to that group, with no contrast between
+   groups, code item and name the group in applies_to.
+4. If step 2 and step 3 both seem to fit, code mixed.
+
+Examples
+- Florence 1356. Women may not show fringes or ermine, squirrel or
+  rabbit linings at cuffs and slits. Knights' wives are exempt. -> item
+- Florence 1562. Married noble women may wear up to three gold rings, a
+  gold chain and a gold belt within set values, in pure gold only.
+  -> rank
+- Florence 1562. Married women who are not noble may not wear a gold
+  frontlet, garland or belt, only pure silver ones. -> rank
+- Florence 1546. Prostitutes may not wear silk and must wear a veil with
+  a yellow stripe. -> rank
+- 洪武三年 士庶妻，首饰用银镀金，耳环用金珠，钏镯用银，服浅色团衫。 -> rank
+- 天顺二年 官民衣服不得用蟒龙、飞鱼、斗牛、大鹏、像生狮子、四宝相花、
+  大西番莲、大云花样。 -> item
+- 成化十年 禁官民妇女不得僭用浑金衣服、宝石首饰。 -> item
+- 正德元年 令军民妇女不许用销金衣服帐幔、宝石首饰镯钏，娼妓不许用金首饰、
+  银镯钏。 -> rank
+
+Return JSON only, in this form:
+{"record_id": "...", "code": "item|rank|mixed", "applies_to": "...",
+"reason": "one sentence of at most 25 words"}
+
+CLAUSE
+record_id: {record_id}
+language: {language}
+text: {text}

@@ -1,0 +1,52 @@
+You will read one historical record about dress. It may be in old
+Italian, classical Chinese, or a modern scholarly summary in French or
+English.
+
+List every word or short phrase in the record that names one of these:
+garment, headwear_jewelry, material_technique, color, pattern, generic.
+
+Rules
+1. Copy each term exactly as it appears. Do not translate. Do not
+   correct spelling, even when the text has an OCR error.
+2. List each distinct term once. List it again only if it has a
+   different wearer in another part of the record.
+3. Split a material, color or technique word from the object it
+   describes. Examples: 金钗 gives 金 and 钗. scaccato in seta gives
+   scaccato and seta. cioppa di domaschino bianco gives cioppa,
+   domaschino and bianco.
+4. Split two object names that stand side by side. Examples: 领袖
+   gives 领 and 袖. 袜舄 gives 袜 and 舄. cinture e cingoli gives
+   cinture and cingoli.
+5. Keep a term whole when:
+   - splitting would leave only a general word such as 衣 or 服
+     (翟衣, 鞠衣, 团衫);
+   - the first part only gives shape, style or size (花钗, 小袖袍,
+     唐巾);
+   - it is a fixed fabric or technique compound (织金, 销金, 描金,
+     panno di lana);
+   - it is not clear how to split it.
+6. Category by where the thing sits. Pearls, gold, gems or fur that
+   form part of a named object are material_technique. The same
+   things worn on their own are headwear_jewelry. Trimmings sewn on
+   a garment are material_technique. Belts and sashes are garment.
+7. Use generic for words that mean clothing or ornament in general,
+   such as 衣服, 首饰, vestimento, robba, ornamento.
+8. Only list things worn on the body. Do not list verbs of wearing,
+   cosmetics, hair or body parts, or colors and materials that do not
+   describe dress (for example, in a dye or cosmetic recipe).
+9. Include terms that appear in a ban or a negation.
+10. If the record names nothing of this kind, return an empty list.
+    Do not add anything that is not in the text.
+11. For each term, give "wearer": female, male, both, or unclear.
+    Use female when the text ties the item to women, girls, wives,
+    courtesans or female servants; male when it ties the item only to
+    men; both when it names both; unclear otherwise.
+
+Return JSON only, with no other text, in this form:
+{"record_id": "...", "terms": [{"surface": "...", "category": "...",
+"wearer": "...", "context": "up to 12 characters or 6 words around the term"}]}
+
+RECORD
+record_id: {record_id}
+language: {language}
+text: {text}
