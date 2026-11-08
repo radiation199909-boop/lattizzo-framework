@@ -1,0 +1,316 @@
+record_id,side,unit,year,group,genre,surface,concept,category,generic,wearer,reviewed,context
+FI1356-006,it,Florence,1356,law,law,corona,corona,headwear_jewelry,0,female,0,corona d’oro o d’ariento
+FI1356-006,it,Florence,1356,law,law,oro,oro,material_technique,0,female,0,corona d’oro
+FI1356-006,it,Florence,1356,law,law,ariento,ariento,material_technique,0,female,0,corona d’oro o d’ariento
+FI1356-006,it,Florence,1356,law,law,perle,perle,material_technique,0,female,0,corona d’oro o d’ariento o di perle
+FI1356-006,it,Florence,1356,law,law,pietre preziose,pietre preziose,material_technique,0,female,0,corona ... di pietre preziose
+FI1356-006,it,Florence,1356,law,law,nacchere,nacchere,material_technique,0,female,0,corona ... di nacchere
+FI1356-006,it,Florence,1356,law,law,ghirlanda,ghirlanda,headwear_jewelry,0,female,0,una ghirlanda o cerchiello
+FI1356-006,it,Florence,1356,law,law,cerchiello,cerchiello,headwear_jewelry,0,female,0,una ghirlanda o cerchiello
+FI1356-006,it,Florence,1356,law,law,indorata,indorata,material_technique,0,female,0,"o indorata, o inarientata"
+FI1356-006,it,Florence,1356,law,law,inarientata,inarientata,material_technique,0,female,0,"indorata, o inarientata e contrafatta"
+FI1356-006,it,Florence,1356,law,law,contrafatta,contrafatta,material_technique,0,female,0,inarientata e contrafatta et con ismalti
+FI1356-006,it,Florence,1356,law,law,ismalti,ismalti,material_technique,0,female,0,contrafatta et con ismalti
+FI1356-006,it,Florence,1356,law,law,pietre pretiose,pietre pretiose,material_technique,0,female,0,ma non con pietre pretiose o nacchere
+FI1356-007,it,Florence,1356,law,law,robba,robba,generic,1,female,0,alcuna robba o vestire
+FI1356-007,it,Florence,1356,law,law,vestire,vestire,generic,1,female,0,robba o vestire di sciamito
+FI1356-007,it,Florence,1356,law,law,sciamito,sciamito,material_technique,0,female,0,vestire di sciamito
+FI1356-007,it,Florence,1356,law,law,aguazeronalo,aguazeronalo,material_technique,0,female,0,in parte aguazeronalo o con guazeroni
+FI1356-007,it,Florence,1356,law,law,guazeroni,guazeroni,garment,0,female,0,portare guazeroni d'alcuno suo vestimento
+FI1356-007,it,Florence,1356,law,law,vestimento,vestimento,generic,1,female,0,d'alcuno suo vestimento che sieno
+FI1356-007,it,Florence,1356,law,law,foderatura,foderatura,material_technique,0,female,0,con foderatura di fodero
+FI1356-007,it,Florence,1356,law,law,fodero,fodero,material_technique,0,female,0,foderatura di fodero o d' altra
+FI1356-007,it,Florence,1356,law,law,guazerone,guazerone,garment,0,female,0,neuno guazerone possa essere maggiore
+FI1464-08,it,Florence,1464,law,law,cotte,cotte,garment,0,female,0,sopradette cotte di seta
+FI1464-08,it,Florence,1464,law,law,seta,seta,material_technique,0,female,0,cotte di seta o ghamurre
+FI1464-08,it,Florence,1464,law,law,ghamurre,ghamurre,garment,0,female,0,"seta o ghamurre, o saia"
+FI1464-08,it,Florence,1464,law,law,saia,saia,material_technique,0,female,0,"ghamurre, o saia o rascia"
+FI1464-08,it,Florence,1464,law,law,rascia,rascia,material_technique,0,female,0,saia o rascia di qualunque
+FI1464-08,it,Florence,1464,law,law,vestire,vestire,generic,1,female,0,qualunque altro vestire stretto
+FI1464-08,it,Florence,1464,law,law,sengnaletto,sengnaletto,material_technique,0,female,0,uno sengnaletto o vero frangia
+FI1464-08,it,Florence,1464,law,law,frangia,frangia,material_technique,0,female,0,vero frangia d’oro
+FI1464-08,it,Florence,1464,law,law,oro,oro,material_technique,0,female,0,0 oro di qualunque ragione
+FI1464-08,it,Florence,1464,law,law,ariento,ariento,material_technique,0,female,0,d’oro o d’ariento o di seta
+FI1464-08,it,Florence,1464,law,law,gharzo,gharzo,material_technique,0,female,0,avere o gharzo di qualunque pelle
+FI1464-08,it,Florence,1464,law,law,pelle,pelle,material_technique,0,female,0,gharzo di qualunque pelle
+FI1464-08,it,Florence,1464,law,law,zibellini,zibellini,material_technique,0,female,0,eccetto zibellini o ermelJlini
+FI1464-08,it,Florence,1464,law,law,ermelJlini,ermeljlini,material_technique,0,female,0,zibellini o ermelJlini et nel gharzo
+FI1464-08,it,Florence,1464,law,law,nastro,nastro,material_technique,0,female,0,uno nastro d’oro
+FI1464-08,it,Florence,1464,law,law,tessuto,tessuto,material_technique,0,female,0,di seta tessuto come
+FI1464-08,it,Florence,1464,law,law,tirelle,tirelle,material_technique,0,female,0,detto gharzo tirelle di drappo
+FI1464-08,it,Florence,1464,law,law,drappo,drappo,material_technique,0,female,0,tirelle di drappo di seta
+FI1464-08,it,Florence,1464,law,law,richamare,richamare,material_technique,0,female,0,non si possa richamare nè appichare
+FI1472-03,it,Florence,1472,law,law,vestiri,vestiri,generic,1,both,0,donne et huomini ... portare vestiri
+FI1472-03,it,Florence,1472,law,law,ornamenti,ornamenti,generic,1,both,0,vestiri o ornamenti con oro
+FI1472-03,it,Florence,1472,law,law,oro,oro,material_technique,0,both,0,ornamenti con oro o ariento
+FI1472-03,it,Florence,1472,law,law,ariento,ariento,material_technique,0,both,0,oro o ariento o chermisi
+FI1472-03,it,Florence,1472,law,law,chermisi,chermisi,color,0,both,0,"ariento o chermisi, excetto"
+FI1472-03,it,Florence,1472,law,law,taffectà,taffectà,material_technique,0,both,0,in taffectà di chermisi
+FI1472-03,it,Florence,1472,law,law,cintole,cintole,garment,0,both,0,fecte per cintole
+FI1472-03,it,Florence,1472,law,law,gioie,gioie,headwear_jewelry,0,both,0,portare gioie et perle
+FI1472-03,it,Florence,1472,law,law,perle,perle,headwear_jewelry,0,both,0,gioie et perle ‘d’ongni ragione
+FI1472-03,it,Florence,1472,law,law,zibellini,zibellini,headwear_jewelry,0,both,0,"et zibellini, lattitij et ermellini"
+FI1472-03,it,Florence,1472,law,law,lattitij,lattitij,material_technique,0,both,0,"zibellini, lattitij et ermellini"
+FI1472-03,it,Florence,1472,law,law,ermellini,ermellini,material_technique,0,both,0,"lattitij et ermellini, et fodere"
+FI1472-03,it,Florence,1472,law,law,fodere,fodere,garment,0,both,0,et fodere o doppie di drappo
+FI1472-03,it,Florence,1472,law,law,doppie,doppie,garment,0,both,0,fodere o doppie di drappo
+FI1472-03,it,Florence,1472,law,law,drappo,drappo,material_technique,0,both,0,doppie di drappo con pelo
+FI1472-03,it,Florence,1472,law,law,pelo,pelo,material_technique,0,both,0,drappo con pelo o oro
+FI1472-03,it,Florence,1472,law,law,contrafacto,contrafacto,material_technique,0,both,0,ariento contrafacto o non buono
+FI1472-03,it,Florence,1472,law,law,pelli,pelli,material_technique,0,both,0,portare pelli o drappi frappati
+FI1472-03,it,Florence,1472,law,law,drappi,drappi,material_technique,0,both,0,pelli o drappi frappati
+FI1472-03,it,Florence,1472,law,law,frappati,frappati,material_technique,0,both,0,drappi frappati
+FI1472-10,it,Florence,1472,law,law,drappo,drappo,material_technique,0,both,0,"figluoli et figluole non ite a marito, potere portare per 1’ advenire per alcuno tempo drappo di seta"
+FI1472-10,it,Florence,1472,law,law,seta,seta,material_technique,0,both,0,drappo di seta d’ alcuna ragione
+FI1472-10,it,Florence,1472,law,law,panno di grana,panno di grana,material_technique,0,both,0,Nè panno di grana d’ alcuna ragione
+FI1472-10,it,Florence,1472,law,law,cintola,cintola,garment,0,female,0,alle decte donne portare una cintola
+FI1472-10,it,Florence,1472,law,law,ariento,ariento,material_technique,0,female,0,fornita con ariento biancho overo dorato
+FI1472-10,it,Florence,1472,law,law,biancho,biancho,color,0,female,0,ariento biancho overo dorato
+FI1472-10,it,Florence,1472,law,law,dorato,dorato,material_technique,0,female,0,ariento biancho overo dorato
+FI1472-10,it,Florence,1472,law,law,fecta,fecta,garment,0,female,0,nella fecta o vero tessuto
+FI1472-10,it,Florence,1472,law,law,tessuto,tessuto,material_technique,0,female,0,fecta o vero tessuto nè oro
+FI1472-10,it,Florence,1472,law,law,oro,oro,material_technique,0,female,0,nè oro nè ariento
+FI1472-10,it,Florence,1472,law,law,gioie,gioie,headwear_jewelry,0,female,0,"nè gioie, nè perle"
+FI1472-10,it,Florence,1472,law,law,perle,perle,headwear_jewelry,0,female,0,"nè gioie, nè perle"
+FI1472-10,it,Florence,1472,law,law,anella,anella,headwear_jewelry,0,female,0,Et insino in due anella
+FI1472-10,it,Florence,1472,law,law,coltellini,coltellini,headwear_jewelry,0,female,0,Et possino portare coltellini forniti con ariento
+FI1472-10,it,Florence,1472,law,law,forchette,forchette,headwear_jewelry,0,female,0,et forchette 0 punteruolo
+FI1472-10,it,Florence,1472,law,law,punteruolo,punteruolo,headwear_jewelry,0,female,0,forchette 0 punteruolo o vero dirizatoio
+FI1472-10,it,Florence,1472,law,law,dirizatoio,dirizatoio,headwear_jewelry,0,female,0,o vero dirizatoio d’ariento
+FI1472-10,it,Florence,1472,law,law,magle,magle,material_technique,0,female,0,Et magle et ghangheri et bottoni
+FI1472-10,it,Florence,1472,law,law,ghangheri,ghangheri,material_technique,0,female,0,magle et ghangheri et bottoni per affibiare
+FI1472-10,it,Florence,1472,law,law,bottoni,bottoni,material_technique,0,female,0,ghangheri et bottoni per affibiare
+FI1472-10,it,Florence,1472,law,law,maniche,maniche,garment,0,female,0,"Et maniche, collaretti, berrette"
+FI1472-10,it,Florence,1472,law,law,collaretti,collaretti,garment,0,female,0,"maniche, collaretti, berrette, manichini"
+FI1472-10,it,Florence,1472,law,law,berrette,berrette,headwear_jewelry,0,female,0,"collaretti, berrette, manichini"
+FI1472-10,it,Florence,1472,law,law,manichini,manichini,garment,0,female,0,"berrette, manichini di panno di grana"
+FI1472-10,it,Florence,1472,law,law,nastri,nastri,headwear_jewelry,0,female,0,Et nastri et cordellina di seta
+FI1472-10,it,Florence,1472,law,law,cordellina,cordellina,headwear_jewelry,0,female,0,nastri et cordellina di seta solo per avoltura di capo
+FI1472-10,it,Florence,1472,law,law,seta,seta,material_technique,0,female,0,cordellina di seta solo per avoltura di capo
+FI1472-10,it,Florence,1472,law,law,chermisi,chermisi,color,0,female,0,Excepto che di chermisi
+FI1562-02,it,Florence,1562,law,law,anella,anella,headwear_jewelry,0,female,0,tre anella d'oro
+FI1562-02,it,Florence,1562,law,law,oro,oro,material_technique,0,female,0,anella d'oro
+FI1562-02,it,Florence,1562,law,law,gioie,gioie,headwear_jewelry,0,female,0,quelle gioie che più le piaceranno
+FI1562-02,it,Florence,1562,law,law,smaltare,smaltare,material_technique,0,female,0,le anella si possino smaltare
+FI1562-02,it,Florence,1562,law,law,collana,collana,headwear_jewelry,0,female,0,al collo una collana d'oro
+FI1562-02,it,Florence,1562,law,law,catena,catena,headwear_jewelry,0,female,0,oltre a tale catena
+FI1562-02,it,Florence,1562,law,law,vezzo,vezzo,headwear_jewelry,0,female,0,un vezzo di bottoni d'oro
+FI1562-02,it,Florence,1562,law,law,bottoni,bottoni,headwear_jewelry,0,female,0,vezzo di bottoni d'oro
+FI1562-02,it,Florence,1562,law,law,carcame,carcame,headwear_jewelry,0,female,0,o carcame o altra catenuzza
+FI1562-02,it,Florence,1562,law,law,catenuzza,catenuzza,headwear_jewelry,0,female,0,o altra catenuzza
+FI1562-02,it,Florence,1562,law,law,frontale,frontale,headwear_jewelry,0,female,0,in testa un frontale
+FI1562-02,it,Florence,1562,law,law,grillanda,grillanda,headwear_jewelry,0,female,0,frontale o grillanda d'oro
+FI1562-02,it,Florence,1562,law,law,maniglie,maniglie,headwear_jewelry,0,female,0,Et dua maniglie
+FI1562-02,it,Florence,1562,law,law,cintura,cintura,garment,0,female,0,Et per cintura un cittolo
+FI1562-02,it,Florence,1562,law,law,cittolo,cittolo,garment,0,female,0,un cittolo d'oro
+FI1562-02,it,Florence,1562,law,law,ornamenti,ornamenti,generic,1,female,0,li predetti ornamenti
+FI1562-02,it,Florence,1562,law,law,rame,rame,material_technique,0,female,0,di rame o d'argento dorato
+FI1562-02,it,Florence,1562,law,law,argento,argento,material_technique,0,female,0,d'argento dorato
+FI1562-02,it,Florence,1562,law,law,dorato,dorato,material_technique,0,female,0,d'argento dorato
+FI1562-02,it,Florence,1562,law,law,paternostri,paternostri,headwear_jewelry,0,female,0,un paio di paternostri
+FI1562-02,it,Florence,1562,law,law,nappa,nappa,material_technique,0,female,0,insieme con la nappa
+FI1562-02,it,Florence,1562,law,law,guanti,guanti,garment,0,female,0,un paio di guanti muschiati
+FI1562-02,it,Florence,1562,law,law,muschiati,muschiati,material_technique,0,female,0,guanti muschiati o profumati
+FI1562-02,it,Florence,1562,law,law,profumati,profumati,material_technique,0,female,0,muschiati o profumati
+FI1562-02,it,Florence,1562,law,law,muschio,muschio,material_technique,0,female,0,altra cosa di muschio
+FI1562-02,it,Florence,1562,law,law,veste,veste,garment,0,female,0,usar veste per di sopra
+FI1562-02,it,Florence,1562,law,law,seta,seta,material_technique,0,female,0,veste per di sopra di seta
+FI1562-02,it,Florence,1562,law,law,drappo,drappo,material_technique,0,female,0,seta et drappo non prohibito
+FI1562-02,it,Florence,1562,law,law,sottana,sottana,garment,0,female,0,in una sottana et veste
+FI1562-02,it,Florence,1562,law,law,raso,raso,material_technique,0,female,0,"di raso, domasco, velluto"
+FI1562-02,it,Florence,1562,law,law,domasco,domasco,material_technique,0,female,0,"raso, domasco, velluto"
+FI1562-02,it,Florence,1562,law,law,velluto,velluto,material_technique,0,female,0,"domasco, velluto, o altro drappo"
+FI1562-02,it,Florence,1562,law,law,taffettà,taffettà,material_technique,0,female,0,del taffettà et ermesino
+FI1562-02,it,Florence,1562,law,law,ermesino,ermesino,material_technique,0,female,0,taffettà et ermesino
+FI1562-02,it,Florence,1562,law,law,vesti,vesti,garment,0,female,0,Et dette vesti bandare
+FI1562-02,it,Florence,1562,law,law,banda,banda,material_technique,0,female,0,con una banda o più
+FI1562-02,it,Florence,1562,law,law,orli,orli,material_technique,0,female,0,"o orli, o bastoni"
+FI1562-02,it,Florence,1562,law,law,bastoni,bastoni,material_technique,0,female,0,"orli, o bastoni"
+FI1562-02,it,Florence,1562,law,law,bande,bande,material_technique,0,female,0,a dette bande et finimento
+FI1562-02,it,Florence,1562,law,law,finimento,finimento,material_technique,0,female,0,bande et finimento aggiugnere
+FI1562-02,it,Florence,1562,law,law,vernice,vernice,material_technique,0,female,0,"beneplacito vernice, cordellina"
+FI1562-02,it,Florence,1562,law,law,cordellina,cordellina,material_technique,0,female,0,"vernice, cordellina, frangia"
+FI1562-02,it,Florence,1562,law,law,frangia,frangia,material_technique,0,female,0,"cordellina, frangia o vergola"
+FI1562-02,it,Florence,1562,law,law,vergola,vergola,material_technique,0,female,0,frangia o vergola
+FI1562-02,it,Florence,1562,law,law,fornimento,fornimento,material_technique,0,female,0,il medesimo fornimento et e;uarnigione
+FI1562-02,it,Florence,1562,law,law,e;uarnigione,e;uarnigione,material_technique,0,female,0,fornimento et e;uarnigione di drappo
+FI1562-02,it,Florence,1562,law,law,panno,panno,material_technique,0,female,0,"o di panno, saia"
+FI1562-02,it,Florence,1562,law,law,saia,saia,material_technique,0,female,0,"panno, saia, o rascia"
+FI1562-02,it,Florence,1562,law,law,rascia,rascia,material_technique,0,female,0,"saia, o rascia"
+FI1562-02,it,Florence,1562,law,law,maniche,maniche,garment,0,female,0,nelle maniche et nelle bande
+FI1562-02,it,Florence,1562,law,law,guarnigione,guarnigione,material_technique,0,female,0,per la guarnigione di ciascuna veste
+FI1562-02,it,Florence,1562,law,law,turche,turche,garment,0,female,0,comprendendovisi turche et zimarre
+FI1562-02,it,Florence,1562,law,law,zimarre,zimarre,garment,0,female,0,turche et zimarre
+FI1562-02,it,Florence,1562,law,law,cappello,cappello,headwear_jewelry,0,female,0,un cappello di velluto
+FI1562-02,it,Florence,1562,law,law,paglia,paglia,material_technique,0,female,0,et di paglia
+FI1562-02,it,Florence,1562,law,law,cappelli,cappelli,headwear_jewelry,0,female,0,essi cappelli non avanzi
+FI1562-02,it,Florence,1562,law,law,piuma,piuma,headwear_jewelry,0,female,0,"senza piuma, spenacchio"
+FI1562-02,it,Florence,1562,law,law,spenacchio,spenacchio,headwear_jewelry,0,female,0,"piuma, spenacchio et medaglia"
+FI1562-02,it,Florence,1562,law,law,medaglia,medaglia,headwear_jewelry,0,female,0,spenacchio et medaglia
+FI1562-02,it,Florence,1562,law,law,bonetto,bonetto,headwear_jewelry,0,female,0,portare bonetto o beretta
+FI1562-02,it,Florence,1562,law,law,beretta,beretta,headwear_jewelry,0,female,0,bonetto o beretta di velluto
+FI1562-02,it,Florence,1562,law,law,scarpe,scarpe,garment,0,female,0,le scarpe et pianelle
+FI1562-02,it,Florence,1562,law,law,pianelle,pianelle,garment,0,female,0,scarpe et pianelle
+FI1562-02,it,Florence,1562,law,law,calze,calze,garment,0,female,0,portare calze di seta
+FI1562-02,it,Florence,1562,law,law,reti,reti,headwear_jewelry,0,female,0,portare reti et scuffie
+FI1562-02,it,Florence,1562,law,law,scuffie,scuffie,headwear_jewelry,0,female,0,reti et scuffie tessute
+FI1562-02,it,Florence,1562,law,law,tessute,tessute,material_technique,0,female,0,scuffie tessute o lavorate
+FI1562-02,it,Florence,1562,law,law,lavorate,lavorate,material_technique,0,female,0,tessute o lavorate con oncie
+FI1562-02,it,Florence,1562,law,law,filato,filato,material_technique,0,female,0,d'argento filato al più
+FI1562-02,it,Florence,1562,law,law,rete,rete,headwear_jewelry,0,female,0,ciascuna rete o scuffia
+FI1562-02,it,Florence,1562,law,law,scuffia,scuffia,headwear_jewelry,0,female,0,rete o scuffia
+FI1562-02,it,Florence,1562,law,law,fazzoletto,fazzoletto,garment,0,female,0,et fazzoletto d'accia
+FI1562-02,it,Florence,1562,law,law,accia,accia,material_technique,0,female,0,fazzoletto d'accia
+FI1562-02,it,Florence,1562,law,law,sciugatoio,sciugatoio,garment,0,female,0,et sciugatoio d'accia
+FI1562-02,it,Florence,1562,law,law,gorgiera,gorgiera,garment,0,female,0,una gorgiera over colletto
+FI1562-02,it,Florence,1562,law,law,colletto,colletto,garment,0,female,0,gorgiera over colletto
+FI1562-02,it,Florence,1562,law,law,rensa,rensa,material_technique,0,female,0,"maniche di rensa, cortina"
+FI1562-02,it,Florence,1562,law,law,cortina,cortina,material_technique,0,female,0,"rensa, cortina, bisso"
+FI1562-02,it,Florence,1562,law,law,bisso,bisso,material_technique,0,female,0,"cortina, bisso o bambagino"
+FI1562-02,it,Florence,1562,law,law,bambagino,bambagino,material_technique,0,female,0,bisso o bambagino
+FI1562-02,it,Florence,1562,law,law,tirato,tirato,material_technique,0,female,0,filato o tirato
+FI1562-02,it,Florence,1562,law,law,veli,veli,garment,0,female,0,Et li veli con oro
+FI1562-02,it,Florence,1562,law,law,cintolo,cintolo,garment,0,female,0,ne il cintolo d'oro
+FI1562-02,it,Florence,1562,law,law,puro,puro,material_technique,0,female,0,d'argento puro
+FI1562-05,it,Florence,1562,law,law,drappo,drappo,material_technique,0,female,0,"non possa portare drappo, né seta"
+FI1562-05,it,Florence,1562,law,law,seta,seta,material_technique,0,female,0,né seta di cosa alcuna
+FI1562-05,it,Florence,1562,law,law,panno di grana,panno di grana,material_technique,0,female,0,"né panno di grana, né di chermisi"
+FI1562-05,it,Florence,1562,law,law,chermisi,chermisi,color,0,female,0,né di chermisi
+FI1562-05,it,Florence,1562,law,law,rete,rete,headwear_jewelry,0,female,0,in capo rete et scuffie
+FI1562-05,it,Florence,1562,law,law,scuffie,scuffie,headwear_jewelry,0,female,0,rete et scuffie di seta
+FI1562-05,it,Florence,1562,law,law,nastro,nastro,garment,0,female,0,nastro di seta
+FI1562-05,it,Florence,1562,law,law,cintolo,cintolo,garment,0,female,0,cintolo di seta
+FI1562-05,it,Florence,1562,law,law,vezzo,vezzo,headwear_jewelry,0,female,0,al collo uno vezzo di bottoni
+FI1562-05,it,Florence,1562,law,law,bottoni,bottoni,headwear_jewelry,0,female,0,vezzo di bottoni d'argento
+FI1562-05,it,Florence,1562,law,law,argento,argento,material_technique,0,female,0,bottoni d'argento
+FI1562-05,it,Florence,1562,law,law,cintole,cintole,garment,0,female,0,le cintole strette
+FI1562-05,it,Florence,1562,law,law,fette,fette,garment,0,female,0,overo fette di velluto
+FI1562-05,it,Florence,1562,law,law,velluto,velluto,material_technique,0,female,0,fette di velluto sprangate
+FI1562-05,it,Florence,1562,law,law,sprangate,sprangate,material_technique,0,female,0,velluto sprangate d'argento
+FI1562-05,it,Florence,1562,law,law,fibbie,fibbie,garment,0,female,0,le fibbie et puntali
+FI1562-05,it,Florence,1562,law,law,puntali,puntali,garment,0,female,0,fibbie et puntali d'argento dorato
+FI1562-05,it,Florence,1562,law,law,dorato,dorato,material_technique,0,female,0,d'argento dorato
+FI1562-05,it,Florence,1562,law,law,anella,anella,headwear_jewelry,0,female,0,dua anella d'argento dorato
+FI1562-05,it,Florence,1562,law,law,pietre,pietre,material_technique,0,female,0,con pietre di vetro
+FI1562-05,it,Florence,1562,law,law,vetro,vetro,material_technique,0,female,0,"pietre di vetro, cristallo"
+FI1562-05,it,Florence,1562,law,law,cristallo,cristallo,material_technique,0,female,0,"vetro, cristallo, o simile"
+FI1562-05,it,Florence,1562,law,law,corona di paternostri,corona di paternostri,headwear_jewelry,0,female,0,una corona di paternostri
+FI1562-05,it,Florence,1562,law,law,guarnigione,guarnigione,material_technique,0,female,0,per guarnigione del busto
+FI1562-05,it,Florence,1562,law,law,busto,busto,garment,0,female,0,del busto d'una veste
+FI1562-05,it,Florence,1562,law,law,veste,veste,garment,0,female,0,d'una veste o sottana
+FI1562-05,it,Florence,1562,law,law,sottana,sottana,garment,0,female,0,veste o sottana
+FI1562-05,it,Florence,1562,law,law,maniche,maniche,garment,0,female,0,delle maniche possa usare
+FI1562-05,it,Florence,1562,law,law,raso,raso,material_technique,0,female,0,"solamente raso, domasco"
+FI1562-05,it,Florence,1562,law,law,domasco,domasco,material_technique,0,female,0,"raso, domasco et ermisino"
+FI1562-05,it,Florence,1562,law,law,ermisino,ermisino,material_technique,0,female,0,domasco et ermisino
+FI1562-05,it,Florence,1562,law,law,cappello,cappello,headwear_jewelry,0,female,0,un cappello dJermisino
+FI1562-05,it,Florence,1562,law,law,dJermisino,djermisino,material_technique,0,female,0,cappello dJermisino o di paglia
+FI1562-05,it,Florence,1562,law,law,paglia,paglia,material_technique,0,female,0,o di paglia di valuta
+FI-05,it,Florence,1447,other,account book,perle,perle,material_technique,0,unclear,0,di perle per ricamare da mano
+FI-05,it,Florence,1447,other,account book,ricamare,ricamare,material_technique,0,unclear,0,perle per ricamare da mano e manichini
+FI-05,it,Florence,1447,other,account book,manichini,manichini,garment,0,unclear,0,da mano e manichini ; comperai
+FI-01,it,Florence,1447,other,letter,cotta,cotta,garment,0,female,0,gli tagliò una cotta 3 di zetani
+FI-01,it,Florence,1447,other,letter,zetani vellutato,zetani vellutato,material_technique,0,female,0,cotta 3 di zetani vellutato chermisi
+FI-01,it,Florence,1447,other,letter,chermisi,chermisi,color,0,female,0,zetani vellutato chermisi
+FI-01,it,Florence,1447,other,letter,roba,roba,generic,1,female,0,la roba di quello medesimo
+FI-01,it,Florence,1447,other,letter,drappo,drappo,material_technique,0,female,0,il più bel drappo che sia
+FI-01,it,Florence,1447,other,letter,grillanda,grillanda,headwear_jewelry,0,female,0,una grillanda di penne con perle
+FI-01,it,Florence,1447,other,letter,penne,penne,material_technique,0,female,0,grillanda di penne con perle
+FI-01,it,Florence,1447,other,letter,perle,perle,material_technique,0,female,0,penne con perle
+FI-01,it,Florence,1447,other,letter,racconciatura,racconciatura,headwear_jewelry,0,female,0,e racconciatura di sotto
+FI-01,it,Florence,1447,other,letter,trecce,trecce,headwear_jewelry,0,female,0,duo trecce di perle
+FI-01,it,Florence,1447,other,letter,perle,perle,material_technique,0,female,0,trecce di perle
+FI-01,it,Florence,1447,other,letter,velluto,velluto,material_technique,0,female,0,un velluto chermisi
+FI-01,it,Florence,1447,other,letter,maniche,maniche,garment,0,female,0,colle maniche grandi
+FI-01,it,Florence,1447,other,letter,martore,martore,material_technique,0,female,0,foderato di martore
+FI-03,it,Florence,1447,other,account book,cioppa,cioppa,garment,0,female,0,Una cioppa a gozzi di domaschino
+FI-03,it,Florence,1447,other,account book,gozzi,gozzi,pattern,0,female,0,cioppa a gozzi di domaschino bianco
+FI-03,it,Florence,1447,other,account book,domaschino,domaschino,material_technique,0,female,0,gozzi di domaschino bianco orlata
+FI-03,it,Florence,1447,other,account book,bianco,bianco,color,0,female,0,domaschino bianco orlata di martore
+FI-03,it,Florence,1447,other,account book,orlata,orlata,material_technique,0,female,0,bianco orlata di martore
+FI-03,it,Florence,1447,other,account book,martore,martore,material_technique,0,female,0,orlata di martore una cioppa
+FI-03,it,Florence,1447,other,account book,calisea,calisea,material_technique,0,female,0,cioppa di calisea bianca a gozzi
+FI-03,it,Florence,1447,other,account book,bianca,bianca,color,0,female,0,calisea bianca a gozzi ricamata
+FI-03,it,Florence,1447,other,account book,ricamata,ricamata,material_technique,0,female,0,a gozzi ricamata e orlata
+FI-10,it,Florence,1466,other,letter,drappi,drappi,material_technique,0,unclear,0,pel baratto fé' de' drappi
+FI-10,it,Florence,1466,other,letter,vestire,vestire,generic,1,unclear,0,male in ordine del vestire
+FI-10,it,Florence,1466,other,letter,gamurra,gamurra,garment,0,female,0,ricucire la gamurra
+FI-10,it,Florence,1466,other,letter,cioppa,cioppa,garment,0,female,0,si mette la cioppa2
+FI-10,it,Florence,1466,other,letter,camicia,camicia,garment,0,female,0,in sulla camicia
+LE-02,it,Florence,1395,other,literature,ornamenti,ornamenti,generic,1,female,0,ornamenti delle donne
+LE-02,it,Florence,1395,other,literature,portature,portature,generic,1,female,0,le donne non trascorrono mai nelle portature
+LE-02,it,Florence,1395,other,literature,becchetto,becchetto,headwear_jewelry,0,female,0,una donna col becchetto frastagliato
+LE-02,it,Florence,1395,other,literature,frastagliato,frastagliato,material_technique,0,female,0,becchetto frastagliato avvolto
+LE-02,it,Florence,1395,other,literature,cappuccio,cappuccio,headwear_jewelry,0,female,0,sopra il cappuccio
+LE-02,it,Florence,1395,other,literature,bottoni,bottoni,material_technique,0,female,0,molti bottoni portare
+LE-02,it,Florence,1395,other,literature,coppelle,coppelle,material_technique,0,female,0,ma 8000 coppelle dete
+LE-02,it,Florence,1395,other,literature,ermellini,ermellini,material_technique,0,female,0,gli ermellini; e la vuole scrivere
+LE-02,it,Florence,1395,other,literature,lattizzi,lattizzi,material_technique,0,female,0,anzi sono lattizzi
+LE-02,it,Florence,1395,other,literature,ghirlande,ghirlande,headwear_jewelry,0,female,0,le ghirlande per becchetti
+LE-02,it,Florence,1395,other,literature,becchetti,becchetti,headwear_jewelry,0,female,0,ghirlande per becchetti
+LE-02,it,Florence,1395,other,literature,cinciglioni,cinciglioni,garment,0,female,0,"i lattizzi, e' cinciglioni"
+MING-C-15,zh,Ming-central,1370,law,law,首饰,首饰,generic,1,female,0,士庶妻，首饰用银镀金
+MING-C-15,zh,Ming-central,1370,law,law,银镀金,银镀金,material_technique,0,female,0,首饰用银镀金
+MING-C-15,zh,Ming-central,1370,law,law,耳环,耳环,headwear_jewelry,0,female,0,耳环用金珠
+MING-C-15,zh,Ming-central,1370,law,law,金,金,material_technique,0,female,0,耳环用金珠
+MING-C-15,zh,Ming-central,1370,law,law,珠,珠,material_technique,0,female,0,耳环用金珠
+MING-C-15,zh,Ming-central,1370,law,law,钏,钏,headwear_jewelry,0,female,0,钏镯用银
+MING-C-15,zh,Ming-central,1370,law,law,镯,镯,headwear_jewelry,0,female,0,钏镯用银
+MING-C-15,zh,Ming-central,1370,law,law,银,银,material_technique,0,female,0,钏镯用银
+MING-C-15,zh,Ming-central,1370,law,law,浅色,浅色,color,0,female,0,服浅色团衫
+MING-C-15,zh,Ming-central,1370,law,law,团衫,团衫,garment,0,female,0,浅色团衫
+MING-C-15,zh,Ming-central,1370,law,law,紵丝,纻丝,material_technique,0,female,0,用紵丝、绫罗
+MING-C-15,zh,Ming-central,1370,law,law,绫罗,绫罗,material_technique,0,female,0,紵丝、绫罗、紬绢
+MING-C-15,zh,Ming-central,1370,law,law,紬绢,䌷绢,material_technique,0,female,0,绫罗、紬绢
+MING-C-64,zh,Ming-central,1458,law,law,衣服,衣服,generic,1,unclear,0,官民衣服不得用
+MING-C-64,zh,Ming-central,1458,law,law,蟒龙,蟒龙,pattern,0,unclear,0,不得用蟒龙、飞鱼
+MING-C-64,zh,Ming-central,1458,law,law,飞鱼,飞鱼,pattern,0,unclear,0,蟒龙、飞鱼、斗牛
+MING-C-64,zh,Ming-central,1458,law,law,斗牛,斗牛,pattern,0,unclear,0,飞鱼、斗牛、大鹏
+MING-C-64,zh,Ming-central,1458,law,law,大鹏,大鹏,pattern,0,unclear,0,斗牛、大鹏、像生狮子
+MING-C-64,zh,Ming-central,1458,law,law,像生狮子,像生狮子,pattern,0,unclear,0,大鹏、像生狮子、四宝相花
+MING-C-64,zh,Ming-central,1458,law,law,四宝相花,四宝相花,pattern,0,unclear,0,像生狮子、四宝相花、大西番莲
+MING-C-64,zh,Ming-central,1458,law,law,大西番莲,大西番莲,pattern,0,unclear,0,四宝相花、大西番莲、大云花样
+MING-C-64,zh,Ming-central,1458,law,law,大云花样,大云花样,pattern,0,unclear,0,大西番莲、大云花样，并玄
+MING-C-64,zh,Ming-central,1458,law,law,玄,玄,color,0,unclear,0,并玄、黄、紫
+MING-C-64,zh,Ming-central,1458,law,law,黄,黄,color,0,unclear,0,玄、黄、紫及
+MING-C-64,zh,Ming-central,1458,law,law,紫,紫,color,0,unclear,0,黄、紫及玄色
+MING-C-64,zh,Ming-central,1458,law,law,玄色,玄色,color,0,unclear,0,紫及玄色、黑
+MING-C-64,zh,Ming-central,1458,law,law,黑,黑,color,0,unclear,0,玄色、黑、绿
+MING-C-64,zh,Ming-central,1458,law,law,绿,绿,color,0,unclear,0,黑、绿、柳黄
+MING-C-64,zh,Ming-central,1458,law,law,柳黄,柳黄,color,0,unclear,0,绿、柳黄、姜黄
+MING-C-64,zh,Ming-central,1458,law,law,姜黄,姜黄,color,0,unclear,0,柳黄、姜黄、明黄
+MING-C-64,zh,Ming-central,1458,law,law,明黄,明黄,color,0,unclear,0,姜黄、明黄诸色
+MING-W-WJ1488,zh,Ming-central,1488,other,local gazetteer,服飾,服饰,generic,1,female,0,僭用命婦服飾
+MING-W-WJ1488,zh,Ming-central,1488,other,local gazetteer,鈒花,钑花,material_technique,0,unclear,0,加以鈒花銀帶
+MING-W-WJ1488,zh,Ming-central,1488,other,local gazetteer,銀,银,material_technique,0,unclear,0,鈒花銀帶
+MING-W-WJ1488,zh,Ming-central,1488,other,local gazetteer,帶,带,garment,0,unclear,0,鈒花銀帶
+MING-I-ZSFF,zh,Ming-central,1544,other,miscellany (biji),仰心髻,仰心髻,headwear_jewelry,0,female,0,良家恥類娼妓。自劉長史更仰心髻效之
+MING-L-YS02,zh,Ming-central,1544,other,miscellany (biji),衣,衣,generic,1,both,0,婦人之衣與男子無異
+MING-L-YS02,zh,Ming-central,1544,other,miscellany (biji),袖,袖,garment,0,female,0,袖闊四尺餘
+MING-L-YS02,zh,Ming-central,1544,other,miscellany (biji),碧,碧,color,0,female,0,碧羅舞袖雙垂地
+MING-L-YS02,zh,Ming-central,1544,other,miscellany (biji),羅,罗,material_technique,0,female,0,碧羅舞袖雙垂地
+MING-L-YS02,zh,Ming-central,1544,other,miscellany (biji),舞袖,舞袖,garment,0,female,0,碧羅舞袖雙垂地
+MING-L-YS02,zh,Ming-central,1544,other,miscellany (biji),纏頭,缠头,headwear_jewelry,0,female,0,籠卻纏頭無處尋
+MING-L-YS02,zh,Ming-central,1544,other,miscellany (biji),妖服,妖服,generic,1,female,0,亦妖服也
+MING-C-LB1506,zh,Ming-central,1506,law,law,珠,珠,material_technique,0,female,0,婦女近來用珠結葢額
+MING-C-LB1506,zh,Ming-central,1506,law,law,葢額,葢额,headwear_jewelry,0,female,0,用珠結葢額謬稱纓絡
+MING-C-LB1506,zh,Ming-central,1506,law,law,纓絡,缨络,headwear_jewelry,0,female,0,葢額謬稱纓絡或綴衣縁
+MING-C-LB1506,zh,Ming-central,1506,law,law,衣縁,衣縁,material_technique,0,female,0,纓絡或綴衣縁履
+MING-C-LB1506,zh,Ming-central,1506,law,law,履,履,garment,0,female,0,或綴衣縁履官員之家
+MING-C-LB1506,zh,Ming-central,1506,law,law,補子,补子,material_technique,0,unclear,0,官員之家結成補子甚違法制
+MING-C-LB1548A,zh,Ming-central,1548,law,law,織金,织金,material_technique,0,unclear,0,僣用織金錦繡
+MING-C-LB1548A,zh,Ming-central,1548,law,law,錦繡,锦绣,material_technique,0,unclear,0,織金錦繡僕御
+MING-C-LB1548A,zh,Ming-central,1548,law,law,紵絲,纻丝,material_technique,0,unclear,0,僣服紵絲紗羅
+MING-C-LB1548A,zh,Ming-central,1548,law,law,紗,纱,material_technique,0,unclear,0,紵絲紗羅綾錦
+MING-C-LB1548A,zh,Ming-central,1548,law,law,羅,罗,material_technique,0,unclear,0,紗羅綾錦婦人
+MING-C-LB1548A,zh,Ming-central,1548,law,law,綾,绫,material_technique,0,unclear,0,羅綾錦婦人
+MING-C-LB1548A,zh,Ming-central,1548,law,law,錦,锦,material_technique,0,unclear,0,綾錦婦人首
+MING-C-LB1548A,zh,Ming-central,1548,law,law,金,金,headwear_jewelry,0,female,0,婦人首僣用金珠寶石
+MING-C-LB1548A,zh,Ming-central,1548,law,law,珠,珠,headwear_jewelry,0,female,0,首僣用金珠寶石
+MING-C-LB1548A,zh,Ming-central,1548,law,law,寶石,宝石,headwear_jewelry,0,female,0,金珠寶石及生儒
+MING-C-LB1548A,zh,Ming-central,1548,law,law,梁冠,梁冠,headwear_jewelry,0,male,0,擅制梁冠詭名
+MING-C-LB1548A,zh,Ming-central,1548,law,law,凌雲,凌云,headwear_jewelry,0,male,0,詭名凌雲與忠静冠
+MING-C-LB1548A,zh,Ming-central,1548,law,law,忠静冠,忠静冠,headwear_jewelry,0,male,0,與忠静冠比美
+MING-C-LB1548A,zh,Ming-central,1548,law,law,東坡角,东坡角,headwear_jewelry,0,male,0,及東坡角深衣
+MING-C-LB1548A,zh,Ming-central,1548,law,law,深衣,深衣,garment,0,male,0,東坡角深衣雲履
+MING-C-LB1548A,zh,Ming-central,1548,law,law,雲履,云履,garment,0,male,0,深衣雲履恣意

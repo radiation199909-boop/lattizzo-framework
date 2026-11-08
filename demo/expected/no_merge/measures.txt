@@ -1,0 +1,16 @@
+window w=10
+  Florence      outside-first 8  law-first 0  same year 0  not named 22  law only 0  undecided 139   M3 22/30 = 0.73
+  Ming-central  outside-first 1  law-first 0  same year 0  not named 6  law only 0  undecided 22   M3 6/7 = 0.86
+  H1 in this window: outside-first 8 vs law-first 0 -> holds
+window w=25
+  Florence      outside-first 8  law-first 0  same year 0  not named 22  law only 40  undecided 99   M3 22/30 = 0.73
+  Ming-central  outside-first 1  law-first 0  same year 0  not named 6  law only 0  undecided 22   M3 6/7 = 0.86
+  H1 in this window: outside-first 8 vs law-first 0 -> holds
+window w=50
+  Florence      outside-first 8  law-first 0  same year 0  not named 22  law only 40  undecided 99   M3 22/30 = 0.73
+  Ming-central  outside-first 1  law-first 0  same year 0  not named 6  law only 5  undecided 17   M3 6/7 = 0.86
+  H1 in this window: outside-first 8 vs law-first 0 -> holds
+H2a Florence: 142 new concepts in 5 clauses = 28.40 per clause
+H2a Ming-central: 12 new concepts in 3 clauses = 4.00 per clause
+H3 Florence rank share before 1500: 1/5 = 0.20; from 1500: 2/2 = 1.00
+H3 Ming central rank share 1368-1424: 1/1 = 1.00
