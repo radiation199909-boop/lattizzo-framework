@@ -1,0 +1,1454 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://example.org/lattizzo/concept/it-0001> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "accia"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0002> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-007); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "aguazeronalo"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0003> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-10); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "anella"@it ;
+    skos:scopeNote "category headwear_jewelry; 3 occurrences in 3 records"@en .
+
+<https://example.org/lattizzo/concept/it-0004> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "argento"@it ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0005> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-006); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "ariento"@it ;
+    skos:scopeNote "category material_technique; 4 occurrences in 4 records"@en .
+
+<https://example.org/lattizzo/concept/it-0006> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "bambagino"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0007> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "banda"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0008> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "bande"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0009> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "bastoni"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0010> a skos:Concept ;
+    skos:historyNote "first seen 1395 (LE-02); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "becchetti"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0011> a skos:Concept ;
+    skos:historyNote "first seen 1395 (LE-02); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "becchetto"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0012> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "beretta"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0013> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-10); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "berrette"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0014> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-03); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "bianca"@it ;
+    skos:scopeNote "category color; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0015> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-10); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "biancho"@it ;
+    skos:scopeNote "category color; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0016> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-03); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "bianco"@it ;
+    skos:scopeNote "category color; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0017> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "bisso"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0018> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "bonetto"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0019> a skos:Concept ;
+    skos:historyNote "first seen 1395 (LE-02); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "bottoni"@it ;
+    skos:scopeNote "category material_technique; 4 occurrences in 4 records"@en .
+
+<https://example.org/lattizzo/concept/it-0020> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-05); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "busto"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0021> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-03); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "calisea"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0022> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "calze"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0023> a skos:Concept ;
+    skos:historyNote "first seen 1466 (FI-10); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "camicia"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0024> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "cappelli"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0025> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "cappello"@it ;
+    skos:scopeNote "category headwear_jewelry; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0026> a skos:Concept ;
+    skos:historyNote "first seen 1395 (LE-02); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "cappuccio"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0027> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "carcame"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0028> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "catena"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0029> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "catenuzza"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0030> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-006); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "cerchiello"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0031> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-01); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "chermisi"@it ;
+    skos:scopeNote "category color; 4 occurrences in 4 records"@en .
+
+<https://example.org/lattizzo/concept/it-0032> a skos:Concept ;
+    skos:historyNote "first seen 1395 (LE-02); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "cinciglioni"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0033> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-10); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "cintola"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0034> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-03); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "cintole"@it ;
+    skos:scopeNote "category garment; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0035> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "cintolo"@it ;
+    skos:scopeNote "category garment; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0036> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "cintura"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0037> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-03); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "cioppa"@it ;
+    skos:scopeNote "category garment; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0038> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "cittolo"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0039> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "collana"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0040> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-10); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "collaretti"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0041> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "colletto"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0042> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-10); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "coltellini"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0043> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-03); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "contrafacto"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0044> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-006); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "contrafatta"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0045> a skos:Concept ;
+    skos:historyNote "first seen 1395 (LE-02); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "coppelle"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0046> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-10); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "cordellina"@it ;
+    skos:scopeNote "category headwear_jewelry; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0047> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-006); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "corona"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0048> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-05); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "corona di paternostri"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0049> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "cortina"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0050> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-01); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "cotta"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0051> a skos:Concept ;
+    skos:historyNote "first seen 1464 (FI1464-08); first in a law 1464"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "cotte"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0052> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-05); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "cristallo"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0053> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-10); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "dirizatoio"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0054> a skos:Concept ;
+    skos:altLabel "dJermisino"@it ;
+    skos:historyNote "first seen 1562 (FI1562-05); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "djermisino"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0055> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-03); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "domaschino"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0056> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "domasco"@it ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0057> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-03); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "doppie"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0058> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-10); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "dorato"@it ;
+    skos:scopeNote "category material_technique; 3 occurrences in 3 records"@en .
+
+<https://example.org/lattizzo/concept/it-0059> a skos:Concept ;
+    skos:historyNote "first seen 1466 (FI-10); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "drappi"@it ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0060> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-01); first in a law 1464"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "drappo"@it ;
+    skos:scopeNote "category material_technique; 6 occurrences in 6 records"@en .
+
+<https://example.org/lattizzo/concept/it-0061> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "e;uarnigione"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0062> a skos:Concept ;
+    skos:altLabel "ermelJlini"@it ;
+    skos:historyNote "first seen 1464 (FI1464-08); first in a law 1464"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "ermeljlini"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0063> a skos:Concept ;
+    skos:historyNote "first seen 1395 (LE-02); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "ermellini"@it ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0064> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "ermesino"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0065> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-05); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "ermisino"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0066> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "fazzoletto"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0067> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-10); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "fecta"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0068> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-05); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "fette"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0069> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-05); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "fibbie"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0070> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "filato"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0071> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "finimento"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0072> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-007); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "foderatura"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0073> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-03); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "fodere"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0074> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-007); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "fodero"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0075> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-10); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "forchette"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0076> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "fornimento"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0077> a skos:Concept ;
+    skos:historyNote "first seen 1464 (FI1464-08); first in a law 1464"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "frangia"@it ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0078> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-03); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "frappati"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0079> a skos:Concept ;
+    skos:historyNote "first seen 1395 (LE-02); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "frastagliato"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0080> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "frontale"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0081> a skos:Concept ;
+    skos:altLabel "ghamurre"@it ;
+    skos:historyNote "first seen 1464 (FI1464-08); first in a law 1464"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "gamurra"@it ;
+    skos:scopeNote "category garment; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0082> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-10); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "ghangheri"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0083> a skos:Concept ;
+    skos:historyNote "first seen 1464 (FI1464-08); first in a law 1464"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "gharzo"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0084> a skos:Concept ;
+    skos:altLabel "ghirlande"@it,
+        "grillanda"@it ;
+    skos:historyNote "first seen 1356 (FI1356-006); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "ghirlanda"@it ;
+    skos:scopeNote "category headwear_jewelry; 4 occurrences in 4 records"@en .
+
+<https://example.org/lattizzo/concept/it-0085> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-03); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "gioie"@it ;
+    skos:scopeNote "category headwear_jewelry; 3 occurrences in 3 records"@en .
+
+<https://example.org/lattizzo/concept/it-0086> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "gorgiera"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0087> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-03); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "gozzi"@it ;
+    skos:scopeNote "category pattern; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0088> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "guanti"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0089> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "guarnigione"@it ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0090> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-007); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "guazerone"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0091> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-007); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "guazeroni"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0092> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-006); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "inarientata"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0093> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-006); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "indorata"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0094> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-006); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "ismalti"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0095> a skos:Concept ;
+    skos:altLabel "lattitij"@it,
+        "lattizzi"@it ;
+    skos:historyNote "first seen 1395 (LE-02); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "lattizzo"@it ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0096> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "lavorate"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0097> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-10); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "magle"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0098> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-01); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "maniche"@it ;
+    skos:scopeNote "category garment; 4 occurrences in 4 records"@en .
+
+<https://example.org/lattizzo/concept/it-0099> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-05); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "manichini"@it ;
+    skos:scopeNote "category garment; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0100> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "maniglie"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0101> a skos:Concept ;
+    skos:altLabel "martore"@it ;
+    skos:historyNote "first seen 1447 (FI-01); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "martora"@it ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0102> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "medaglia"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0103> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "muschiati"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0104> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "muschio"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0105> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-006); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "nacchere"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0106> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "nappa"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0107> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-10); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "nastri"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0108> a skos:Concept ;
+    skos:historyNote "first seen 1464 (FI1464-08); first in a law 1464"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "nastro"@it ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0109> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-03); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "orlata"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0110> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "orli"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0111> a skos:Concept ;
+    skos:historyNote "first seen 1395 (LE-02); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "ornamenti"@it ;
+    skos:scopeNote "category generic; 3 occurrences in 3 records"@en .
+
+<https://example.org/lattizzo/concept/it-0112> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-006); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "oro"@it ;
+    skos:scopeNote "category material_technique; 5 occurrences in 5 records"@en .
+
+<https://example.org/lattizzo/concept/it-0113> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "paglia"@it ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0114> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "panno"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0115> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-10); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "panno di grana"@it ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0116> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "paternostri"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0117> a skos:Concept ;
+    skos:historyNote "first seen 1464 (FI1464-08); first in a law 1464"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "pelle"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0118> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-03); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "pelli"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0119> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-03); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "pelo"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0120> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-01); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "penne"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0121> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-006); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "perle"@it ;
+    skos:scopeNote "category material_technique; 6 occurrences in 5 records"@en .
+
+<https://example.org/lattizzo/concept/it-0122> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "pianelle"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0123> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-05); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "pietre"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0124> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-006); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "pietre pretiose"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0125> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-006); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "pietre preziose"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0126> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "piuma"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0127> a skos:Concept ;
+    skos:historyNote "first seen 1395 (LE-02); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "portature"@it ;
+    skos:scopeNote "category generic; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0128> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "profumati"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0129> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-05); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "puntali"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0130> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-10); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "punteruolo"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0131> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "puro"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0132> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-01); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "racconciatura"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0133> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "rame"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0134> a skos:Concept ;
+    skos:historyNote "first seen 1464 (FI1464-08); first in a law 1464"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "rascia"@it ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0135> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "raso"@it ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0136> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "rensa"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0137> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "rete"@it ;
+    skos:scopeNote "category headwear_jewelry; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0138> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "reti"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0139> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-05); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "ricamare"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0140> a skos:Concept ;
+    skos:altLabel "ricamata"@it ;
+    skos:historyNote "first seen 1447 (FI-03); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "ricamato"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0141> a skos:Concept ;
+    skos:historyNote "first seen 1464 (FI1464-08); first in a law 1464"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "richamare"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0142> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-01); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "roba"@it ;
+    skos:scopeNote "category generic; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0143> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-007); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "robba"@it ;
+    skos:scopeNote "category generic; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0144> a skos:Concept ;
+    skos:historyNote "first seen 1464 (FI1464-08); first in a law 1464"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "saia"@it ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0145> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "scarpe"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0146> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-007); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "sciamito"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0147> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "sciugatoio"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0148> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "scuffia"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0149> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "scuffie"@it ;
+    skos:scopeNote "category headwear_jewelry; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0150> a skos:Concept ;
+    skos:historyNote "first seen 1464 (FI1464-08); first in a law 1464"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "sengnaletto"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0151> a skos:Concept ;
+    skos:historyNote "first seen 1464 (FI1464-08); first in a law 1464"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "seta"@it ;
+    skos:scopeNote "category material_technique; 5 occurrences in 4 records"@en .
+
+<https://example.org/lattizzo/concept/it-0152> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "smaltare"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0153> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "sottana"@it ;
+    skos:scopeNote "category garment; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0154> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "spenacchio"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0155> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-05); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "sprangate"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0156> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-03); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "taffectà"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0157> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "taffettà"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0158> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "tessute"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0159> a skos:Concept ;
+    skos:historyNote "first seen 1464 (FI1464-08); first in a law 1464"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "tessuto"@it ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0160> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "tirato"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0161> a skos:Concept ;
+    skos:historyNote "first seen 1464 (FI1464-08); first in a law 1464"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "tirelle"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0162> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-01); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "trecce"@it ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0163> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "turche"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0164> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "veli"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0165> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-01); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "velluto"@it ;
+    skos:scopeNote "category material_technique; 3 occurrences in 3 records"@en .
+
+<https://example.org/lattizzo/concept/it-0166> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "vergola"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0167> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "vernice"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0168> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "veste"@it ;
+    skos:scopeNote "category garment; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0169> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "vesti"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0170> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-007); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "vestimento"@it ;
+    skos:scopeNote "category generic; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0171> a skos:Concept ;
+    skos:historyNote "first seen 1356 (FI1356-007); first in a law 1356"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "vestire"@it ;
+    skos:scopeNote "category generic; 3 occurrences in 3 records"@en .
+
+<https://example.org/lattizzo/concept/it-0172> a skos:Concept ;
+    skos:historyNote "first seen 1472 (FI1472-03); first in a law 1472"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "vestiri"@it ;
+    skos:scopeNote "category generic; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0173> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-05); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "vetro"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0174> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "vezzo"@it ;
+    skos:scopeNote "category headwear_jewelry; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0175> a skos:Concept ;
+    skos:historyNote "first seen 1447 (FI-01); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "zetani vellutato"@it ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/it-0176> a skos:Concept ;
+    skos:historyNote "first seen 1464 (FI1464-08); first in a law 1464"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "zibellini"@it ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/it-0177> a skos:Concept ;
+    skos:historyNote "first seen 1562 (FI1562-02); first in a law 1562"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/it> ;
+    skos:prefLabel "zimarre"@it ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0178> a skos:Concept ;
+    skos:altLabel "紬绢"@zh-Hant ;
+    skos:historyNote "first seen 1370 (MING-C-15); first in a law 1370"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "䌷绢"@zh-Hans ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0179> a skos:Concept ;
+    skos:altLabel "東坡角"@zh-Hant ;
+    skos:historyNote "first seen 1548 (MING-C-LB1548A); first in a law 1548"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "东坡角"@zh-Hans ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0180> a skos:Concept ;
+    skos:altLabel "雲履"@zh-Hant ;
+    skos:historyNote "first seen 1548 (MING-C-LB1548A); first in a law 1548"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "云履"@zh-Hans ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0181> a skos:Concept ;
+    skos:historyNote "first seen 1544 (MING-I-ZSFF); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "仰心髻"@zh-Hans ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0182> a skos:Concept ;
+    skos:historyNote "first seen 1458 (MING-C-64); first in a law 1458"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "像生狮子"@zh-Hans ;
+    skos:scopeNote "category pattern; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0183> a skos:Concept ;
+    skos:altLabel "凌雲"@zh-Hant ;
+    skos:historyNote "first seen 1548 (MING-C-LB1548A); first in a law 1548"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "凌云"@zh-Hans ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0184> a skos:Concept ;
+    skos:historyNote "first seen 1458 (MING-C-64); first in a law 1458"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "四宝相花"@zh-Hans ;
+    skos:scopeNote "category pattern; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0185> a skos:Concept ;
+    skos:historyNote "first seen 1370 (MING-C-15); first in a law 1370"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "团衫"@zh-Hans ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0186> a skos:Concept ;
+    skos:historyNote "first seen 1458 (MING-C-64); first in a law 1458"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "大云花样"@zh-Hans ;
+    skos:scopeNote "category pattern; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0187> a skos:Concept ;
+    skos:historyNote "first seen 1458 (MING-C-64); first in a law 1458"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "大西番莲"@zh-Hans ;
+    skos:scopeNote "category pattern; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0188> a skos:Concept ;
+    skos:historyNote "first seen 1458 (MING-C-64); first in a law 1458"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "大鹏"@zh-Hans ;
+    skos:scopeNote "category pattern; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0189> a skos:Concept ;
+    skos:historyNote "first seen 1544 (MING-L-YS02); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "妖服"@zh-Hans ;
+    skos:scopeNote "category generic; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0190> a skos:Concept ;
+    skos:historyNote "first seen 1458 (MING-C-64); first in a law 1458"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "姜黄"@zh-Hans ;
+    skos:scopeNote "category color; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0191> a skos:Concept ;
+    skos:altLabel "寶石"@zh-Hant ;
+    skos:historyNote "first seen 1548 (MING-C-LB1548A); first in a law 1548"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "宝石"@zh-Hans ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0192> a skos:Concept ;
+    skos:historyNote "first seen 1506 (MING-C-LB1506); first in a law 1506"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "履"@zh-Hans ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0193> a skos:Concept ;
+    skos:altLabel "帶"@zh-Hant ;
+    skos:historyNote "first seen 1488 (MING-W-WJ1488); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "带"@zh-Hans ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0194> a skos:Concept ;
+    skos:historyNote "first seen 1548 (MING-C-LB1548A); first in a law 1548"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "忠静冠"@zh-Hans ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0195> a skos:Concept ;
+    skos:historyNote "first seen 1458 (MING-C-64); first in a law 1458"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "斗牛"@zh-Hans ;
+    skos:scopeNote "category pattern; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0196> a skos:Concept ;
+    skos:historyNote "first seen 1458 (MING-C-64); first in a law 1458"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "明黄"@zh-Hans ;
+    skos:scopeNote "category color; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0197> a skos:Concept ;
+    skos:altLabel "服飾"@zh-Hant ;
+    skos:historyNote "first seen 1488 (MING-W-WJ1488); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "服饰"@zh-Hans ;
+    skos:scopeNote "category generic; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0198> a skos:Concept ;
+    skos:historyNote "first seen 1458 (MING-C-64); first in a law 1458"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "柳黄"@zh-Hans ;
+    skos:scopeNote "category color; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0199> a skos:Concept ;
+    skos:historyNote "first seen 1548 (MING-C-LB1548A); first in a law 1548"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "梁冠"@zh-Hans ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0200> a skos:Concept ;
+    skos:historyNote "first seen 1370 (MING-C-15); first in a law 1370"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "浅色"@zh-Hans ;
+    skos:scopeNote "category color; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0201> a skos:Concept ;
+    skos:historyNote "first seen 1548 (MING-C-LB1548A); first in a law 1548"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "深衣"@zh-Hans ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0202> a skos:Concept ;
+    skos:historyNote "first seen 1458 (MING-C-64); first in a law 1458"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "玄"@zh-Hans ;
+    skos:scopeNote "category color; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0203> a skos:Concept ;
+    skos:historyNote "first seen 1458 (MING-C-64); first in a law 1458"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "玄色"@zh-Hans ;
+    skos:scopeNote "category color; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0204> a skos:Concept ;
+    skos:historyNote "first seen 1370 (MING-C-15); first in a law 1370"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "珠"@zh-Hans ;
+    skos:scopeNote "category material_technique; 3 occurrences in 3 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0205> a skos:Concept ;
+    skos:historyNote "first seen 1544 (MING-L-YS02); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "碧"@zh-Hans ;
+    skos:scopeNote "category color; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0206> a skos:Concept ;
+    skos:historyNote "first seen 1458 (MING-C-64); first in a law 1458"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "紫"@zh-Hans ;
+    skos:scopeNote "category color; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0207> a skos:Concept ;
+    skos:altLabel "紗"@zh-Hant ;
+    skos:historyNote "first seen 1548 (MING-C-LB1548A); first in a law 1548"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "纱"@zh-Hans ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0208> a skos:Concept ;
+    skos:altLabel "紵丝"@zh-Hant,
+        "紵絲"@zh-Hant ;
+    skos:historyNote "first seen 1370 (MING-C-15); first in a law 1370"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "纻丝"@zh-Hans ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0209> a skos:Concept ;
+    skos:altLabel "織金"@zh-Hant ;
+    skos:historyNote "first seen 1548 (MING-C-LB1548A); first in a law 1548"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "织金"@zh-Hans ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0210> a skos:Concept ;
+    skos:altLabel "綾"@zh-Hant ;
+    skos:historyNote "first seen 1548 (MING-C-LB1548A); first in a law 1548"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "绫"@zh-Hans ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0211> a skos:Concept ;
+    skos:historyNote "first seen 1370 (MING-C-15); first in a law 1370"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "绫罗"@zh-Hans ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0212> a skos:Concept ;
+    skos:historyNote "first seen 1458 (MING-C-64); first in a law 1458"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "绿"@zh-Hans ;
+    skos:scopeNote "category color; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0213> a skos:Concept ;
+    skos:altLabel "纏頭"@zh-Hant ;
+    skos:historyNote "first seen 1544 (MING-L-YS02); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "缠头"@zh-Hans ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0214> a skos:Concept ;
+    skos:altLabel "纓絡"@zh-Hant ;
+    skos:historyNote "first seen 1506 (MING-C-LB1506); first in a law 1506"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "缨络"@zh-Hans ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0215> a skos:Concept ;
+    skos:altLabel "羅"@zh-Hant ;
+    skos:historyNote "first seen 1544 (MING-L-YS02); first in a law 1548"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "罗"@zh-Hans ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0216> a skos:Concept ;
+    skos:historyNote "first seen 1370 (MING-C-15); first in a law 1370"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "耳环"@zh-Hans ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0217> a skos:Concept ;
+    skos:historyNote "first seen 1544 (MING-L-YS02); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "舞袖"@zh-Hans ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0218> a skos:Concept ;
+    skos:altLabel "葢額"@zh-Hant ;
+    skos:historyNote "first seen 1506 (MING-C-LB1506); first in a law 1506"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "葢额"@zh-Hans ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0219> a skos:Concept ;
+    skos:historyNote "first seen 1458 (MING-C-64); first in a law 1458"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "蟒龙"@zh-Hans ;
+    skos:scopeNote "category pattern; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0220> a skos:Concept ;
+    skos:historyNote "first seen 1544 (MING-L-YS02); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "衣"@zh-Hans ;
+    skos:scopeNote "category generic; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0221> a skos:Concept ;
+    skos:historyNote "first seen 1458 (MING-C-64); first in a law 1458"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "衣服"@zh-Hans ;
+    skos:scopeNote "category generic; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0222> a skos:Concept ;
+    skos:historyNote "first seen 1506 (MING-C-LB1506); first in a law 1506"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "衣縁"@zh-Hans ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0223> a skos:Concept ;
+    skos:altLabel "補子"@zh-Hant ;
+    skos:historyNote "first seen 1506 (MING-C-LB1506); first in a law 1506"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "补子"@zh-Hans ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0224> a skos:Concept ;
+    skos:historyNote "first seen 1544 (MING-L-YS02); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "袖"@zh-Hans ;
+    skos:scopeNote "category garment; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0225> a skos:Concept ;
+    skos:historyNote "first seen 1370 (MING-C-15); first in a law 1370"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "金"@zh-Hans ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0226> a skos:Concept ;
+    skos:historyNote "first seen 1370 (MING-C-15); first in a law 1370"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "钏"@zh-Hans ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0227> a skos:Concept ;
+    skos:altLabel "鈒花"@zh-Hant ;
+    skos:historyNote "first seen 1488 (MING-W-WJ1488); first in a law none"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "钑花"@zh-Hans ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0228> a skos:Concept ;
+    skos:altLabel "銀"@zh-Hant ;
+    skos:historyNote "first seen 1370 (MING-C-15); first in a law 1370"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "银"@zh-Hans ;
+    skos:scopeNote "category material_technique; 2 occurrences in 2 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0229> a skos:Concept ;
+    skos:historyNote "first seen 1370 (MING-C-15); first in a law 1370"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "银镀金"@zh-Hans ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0230> a skos:Concept ;
+    skos:altLabel "錦"@zh-Hant ;
+    skos:historyNote "first seen 1548 (MING-C-LB1548A); first in a law 1548"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "锦"@zh-Hans ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0231> a skos:Concept ;
+    skos:altLabel "錦繡"@zh-Hant ;
+    skos:historyNote "first seen 1548 (MING-C-LB1548A); first in a law 1548"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "锦绣"@zh-Hans ;
+    skos:scopeNote "category material_technique; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0232> a skos:Concept ;
+    skos:historyNote "first seen 1370 (MING-C-15); first in a law 1370"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "镯"@zh-Hans ;
+    skos:scopeNote "category headwear_jewelry; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0233> a skos:Concept ;
+    skos:historyNote "first seen 1458 (MING-C-64); first in a law 1458"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "飞鱼"@zh-Hans ;
+    skos:scopeNote "category pattern; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0234> a skos:Concept ;
+    skos:historyNote "first seen 1370 (MING-C-15); first in a law 1370"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "首饰"@zh-Hans ;
+    skos:scopeNote "category generic; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0235> a skos:Concept ;
+    skos:historyNote "first seen 1458 (MING-C-64); first in a law 1458"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "黄"@zh-Hans ;
+    skos:scopeNote "category color; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/concept/zh-0236> a skos:Concept ;
+    skos:historyNote "first seen 1458 (MING-C-64); first in a law 1458"@en ;
+    skos:inScheme <https://example.org/lattizzo/scheme/zh> ;
+    skos:prefLabel "黑"@zh-Hans ;
+    skos:scopeNote "category color; 1 occurrences in 1 records"@en .
+
+<https://example.org/lattizzo/scheme/zh> a skos:ConceptScheme ;
+    skos:prefLabel "Women's dress names in Ming records"@en .
+
+<https://example.org/lattizzo/scheme/it> a skos:ConceptScheme ;
+    skos:prefLabel "Women's dress names in Italian records"@en .
+
