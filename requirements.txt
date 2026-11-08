@@ -1,0 +1,5 @@
+opencc-python-reimplemented>=0.1.7
+rdflib>=7.0
+# only for calling models with src/extract.py
+openai>=1.50
+anthropic>=0.40
