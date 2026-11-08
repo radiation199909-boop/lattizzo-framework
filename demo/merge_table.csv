@@ -1,0 +1,18 @@
+side,surface,concept,generic,category,note
+it,cioppa,cioppa,0,garment,surface is the preferred label
+it,coppelle,coppelle,0,material_technique,surface is the preferred label
+it,domaschino,domaschino,0,material_technique,surface is the preferred label
+it,gamurra,gamurra,0,garment,surface is the preferred label
+it,ghamurre,gamurra,0,garment,"same word: inflection, old spelling or legible OCR variant"
+it,ghirlanda,ghirlanda,0,headwear_jewelry,surface is the preferred label
+it,ghirlande,ghirlanda,0,headwear_jewelry,"same word: inflection, old spelling or legible OCR variant"
+it,grillanda,ghirlanda,0,headwear_jewelry,old spelling with metathesis; merged in the merge audit (2026-11-06)
+it,lattitij,lattizzo,0,material_technique,"same word: inflection, old spelling or legible OCR variant"
+it,lattizzi,lattizzo,0,material_technique,"same word: inflection, old spelling or legible OCR variant"
+it,manichini,manichini,0,garment,surface is the preferred label
+it,martore,martora,0,material_technique,"same word: inflection, old spelling or legible OCR variant"
+it,ricamata,ricamato,0,material_technique,"same word: inflection, old spelling or legible OCR variant"
+it,zibellini,zibellini,0,material_technique,surface is the preferred label
+zh,仰心髻,仰心髻,0,headwear_jewelry,surface is the preferred label
+zh,舞袖,舞袖,0,garment,surface is the preferred label
+zh,補子,补子,0,material_technique,traditional form of the same word; label kept in simplified characters
