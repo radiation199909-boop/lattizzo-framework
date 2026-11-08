@@ -22,7 +22,7 @@ Every term the model returned from a law went through a review sheet like the on
 
 One concept is one dress name on one side. Spellings become one concept only through the merge table, which a person fills in by reading each spelling in context. The rules are in `merge_rules.md`. `src/merge_audit.py` helps by listing candidate pairs, and a person decides each one.
 
-Merging is the decision that most affects the results. In Florence, leaving spellings unmerged would raise the number of concepts from 331 to 482, and the count of outside-first against law-first concepts would change from 13 against 13 to 12 against 8. The demo shows the same effect on single words.
+Merging is the decision that most affects the results. In Florence, leaving spellings unmerged would raise the number of concepts from 331 to 482, and the count of outside-first against law-first concepts would change from 14 against 14 to 13 against 9. The demo shows the same effect on single words.
 
 ## Step 4. Measures
 
