@@ -1,0 +1,15 @@
+sample_id,side,label,alt_labels,category,n_records,n_law_records,first_year,first_record,unit,first_law_year,first_other_year,m1_class_w25,m1_subtype,aat_checked,aat_id,aat_label
+s01,it,lattizzo,lattiti!|lattitij|lattizzi,material_technique,4,3,1395,LE-02,Florence,1472,1395,outside-first,lagging,1,,
+s02,it,coppelle,,material_technique,1,0,1395,LE-02,Florence,,1395,not named,,0,,
+s03,it,manichini,,garment,2,1,1447,FI-05,Florence,1472,1447,outside-first,lagging,0,,
+s04,it,ghirlanda,ghirlande|grillanda,headwear_jewelry,6,3,1356,FI1356-006,Florence,1356,1395,undecided,,1,300220784,wreaths (costume accessories)
+s05,it,ricamato,ricamale|ricamata|ricamate|ricanuUi|ricanuUi^|richamato,material_technique,16,7,1299,L-ve-00,Florence,1464,1403,outside-first,first response,1,300053653,embroidering
+s06,it,zibellini,gibellini,material_technique,4,3,1464,FI1464-08,Florence,1464,1598,law-first,,1,,
+s07,it,domaschino,Domaschino|damaschini,material_technique,5,3,1440,L-ve2-02,Florence,,1447,not named,,1,,
+s08,it,martora,martore|martori,material_technique,6,2,1425,L-ve2-00,Florence,,1447,not named,,1,,
+s09,it,cioppa,ciop. pa|cioppe,garment,8,5,1447,FI-02,Florence,1464,1447,outside-first,first response,1,,
+s10,it,giornea,giornee|zomeda,garment,8,6,1425,L-ve2-00,Florence,1464,1447,outside-first,first response,1,,
+s11,zh,仰心髻,,headwear_jewelry,1,0,1544,MING-I-ZSFF,Ming-central,,1544,not named,,0,,
+s12,zh,舞袖,,garment,1,0,1544,MING-L-YS02,Ming-central,,1544,not named,,0,,
+s13,zh,霞帔,,garment,24,22,1368,MING-C-04,Ming-central,1368,1550,undecided,,1,,
+s14,zh,补子,補子,material_technique,3,3,1506,MING-C-LB1506,Ming-central,1506,,law only,,1,,
