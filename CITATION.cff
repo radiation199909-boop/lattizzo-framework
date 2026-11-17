@@ -3,13 +3,35 @@ message: "If you use this framework, please cite the paper."
 title: "lattizzo-framework"
 type: software
 authors:
-  - name: "radiation199909-boop"
+  - family-names: "Li"
+    given-names: "Tong"
+    orcid: "https://orcid.org/0009-0003-8035-8917"
+    affiliation: "Sapienza University of Rome"
+  - family-names: "Li"
+    given-names: "Wen"
+    orcid: "https://orcid.org/0009-0005-0916-3791"
+    affiliation: "University of Bologna"
+  - family-names: "Coen"
+    given-names: "Paolo"
+    orcid: "https://orcid.org/0000-0003-4779-9449"
+    affiliation: "University of Teramo"
 license: MIT
 preferred-citation:
   type: conference-paper
   title: "An Animal Called Lattizzo. Naming New Dress in the Sumptuary Laws of Renaissance Italy and Ming China"
   authors:
-    - name: "radiation199909-boop"
+    - family-names: "Li"
+      given-names: "Tong"
+      orcid: "https://orcid.org/0009-0003-8035-8917"
+      affiliation: "Sapienza University of Rome"
+    - family-names: "Li"
+      given-names: "Wen"
+      orcid: "https://orcid.org/0009-0005-0916-3791"
+      affiliation: "University of Bologna"
+    - family-names: "Coen"
+      given-names: "Paolo"
+      orcid: "https://orcid.org/0000-0003-4779-9449"
+      affiliation: "University of Teramo"
   conference:
     name: "DH2027"
   year: 2027
